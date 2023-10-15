@@ -1,0 +1,10 @@
+The first objective is to establish a distinct lexicographical database tailored for the Niger-Congo B languages. This specially designed database will not only gather but also facilitate batch uploads of lexicographical data directly to Wikidata. By modeling it after the unique linguistic traits of the Niger-Congo B family, we aim to achieve three specific goals. Firstly, we want to create a robust and stable platform capable of storing lexicographic data pertinent to any Niger-Congo B language. Secondly, it's crucial that the database reflects the specific grammatical nuances native to this language family. Lastly, we intend to ensure the data can be effortlessly converted into a format compatible with Wikidata for seamless uploads.
+
+The secondary objective is to develop two gamified interfaces tailored to engage the average user, aiming to enlarge the contributor base and thereby increase the collection of lexicographical data. Special emphasis will be given to collecting data specific to the Niger-Congo B languages, including unique features like noun classes. Central to this initiative is the research question: Which particular elements from these two gamified interfaces can best motivate users to contribute lexicographical data for Niger-Congo B languages, and how do they measure up in efficacy compared to the current Wikidata interface? To address this, our specific goals are threefold. First, we aim to investigate the essential components for the two gamified interfaces that will maximize user engagement. Second, we will transform these interfaces into fully functional web applications. Lastly, we will evaluate their effectiveness by testing them with participants and comparing the results with the current Wikidata interface.
+
+
+
+
+
+
+
