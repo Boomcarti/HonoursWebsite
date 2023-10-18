@@ -1,6 +1,8 @@
 .u-section-1-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("images/MetaDance1.png");
-  background-position: 50% 50%;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("images/image81.png");
+  background-position: center center;  /* Center the image */
+  background-size: contain;  /* Make sure the image fits inside the container without being cropped */
+  background-repeat: no-repeat;  /* Ensure the image doesn't repeat */
 }
 
 .u-section-1-1 .u-sheet-1 {
@@ -30,8 +32,10 @@
     min-height: 287px;
   }
 }.u-section-1-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("images/MetaDance2.png");
-  background-position: 50% 50%;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("images/image712.png");
+  background-position: center center;  /* Center the image */
+  background-size: contain;  /* Make sure the image fits inside the container without being cropped */
+  background-repeat: no-repeat;  /* Ensure the image doesn't repeat */
 }
 
 .u-section-1-2 .u-sheet-1 {
