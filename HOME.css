@@ -43,18 +43,21 @@
 
 .u-section-2 .u-text-2 {
   margin: 11px 14px 55px;
+  text-align: center;
 }
 
 @media (max-width: 1199px) {
   .u-section-2 .u-text-2 {
     margin-right: 0;
     margin-left: 23px;
+    text-align: center;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-2 .u-text-2 {
     margin-left: 18px;
+    text-align: center;
   }
 }
 
